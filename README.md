@@ -13,8 +13,9 @@ Using the term "characters" to refer to the values within a string "1245" or "he
 
 
 ### fib.py
-  fib.py uses functools lru_cache, matplotlib pyplot, and time
-  Timer is used to capture how long it took to perform the fibbonachi calculation done within the fib function. Values such as n and the time taken are stored in x and y. This is done within the wrapper.
+  fib.py uses functools lru_cache, matplotlib pyplot, and time.
+  Timer is used to capture how long it took to perform the fibbonachi calculation done within the fib function.
+  Values such as n and the time taken are stored in x and y. 
 
   ![image](https://github.com/KyraEvjen/refresher/assets/156963640/96251678-8bde-4f4d-ad03-19efb1f5acf0)
 
