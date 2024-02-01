@@ -3,7 +3,7 @@
 
 There are two files in the HW folder. echo.py and fib.py
 
-### echo.py
+## echo.py
 Using the term "characters" to refer to the values within a string "1245" or "helloooo" etc.
   For each repetition, stores the characters as many as repetition int is.
   With each repetition one less character is stored. All pieces created in repetition is stored in "my_echo".
@@ -11,11 +11,11 @@ Using the term "characters" to refer to the values within a string "1245" or "he
   
   ![image](https://github.com/KyraEvjen/refresher/assets/156963640/46bf8666-c148-4209-bb11-04c30dd08d05)
 
-## echo.py output
+### echo.py output
 
 ![echoOutput](https://github.com/KyraEvjen/refresher/assets/156963640/e214ca92-cd51-43f5-a1b5-5a4f8c4e7e07)
 
-### fib.py
+## fib.py
   fib.py uses functools lru_cache, matplotlib pyplot, and time.
   Timer is used to capture how long it took to perform the fibbonachi calculation done within the fib function.
   Values such as n and the time taken are stored in x and y. 
@@ -31,7 +31,7 @@ Using the term "characters" to refer to the values within a string "1245" or "he
 
   ![image](https://github.com/KyraEvjen/refresher/assets/156963640/264b4a3f-a6e0-4120-bc2a-d40cff31f607)
 
-## fib.py output
+### fib.py output
 
 ![fibOutput](https://github.com/KyraEvjen/refresher/assets/156963640/38f8d6df-c2a0-44a4-b67a-6d5c21139649)
 ![hw1Graph](https://github.com/KyraEvjen/refresher/assets/156963640/10128ad4-8ba0-4978-a492-232f15fe3862)
